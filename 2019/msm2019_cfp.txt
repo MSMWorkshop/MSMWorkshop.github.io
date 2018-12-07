@@ -17,7 +17,6 @@ Important Dates:
 ** Camera-Ready Versions Due: Mar 3, 2019
 ** Workshop date: May 13-14, 2019 
 
-
 Workshop Organizers:
 ====================
 Martin Atzmueller, Tilburg University, Netherlands; m.atzmueller@uvt.nl
@@ -37,30 +36,12 @@ Overall, we are interested in receiving papers related to the following topics w
 * applications of machine learning, deep learning and AI
 * applications of any of the above methods and technologies
 
-
 The goal of this workshop is to use data mining, machine learning and AI approaches and algorithms on social media, big data, small data, sensor data and data from/on the web.
 
 Submissions: We solicit full research papers (4-8 pages), and short
 papers (1-4 pages) both in the ACM conference paper style. 
 Papers should be submitted in EasyChair to
 https://easychair.org/my/conference.cgi?conf=msm2019
-
-Program Committee:
-==================
-* Shlomo Berkovsky, CSIRO 
-* Ulf Brefeld, Leuphana Universität Lüneburg
-* Javier Luis Canovas Izquierdo, IN3 - UOC 
-* Michelangelo Ceci, Universita degli Studi di Bari 
-* Michael Granitzer, University of Passau 
-* Bin Guo, Institut Telecom SudParis 
-* Geert-Jan Houben, Delft University of Technology 
-* Mark Kibanov, University of Kassel 
-* Chi Harold Liu, Beijing Institute of Technology 
-* Denis Parra, Pontificia Universidad Catolica de Chile
-* Nico Piatkowski, Artificial Intelligence Group, TU Dortmund 
-* Su Yang, Dept. of Computer Science and Engineering, Fudan University 
-* Arkaitz Zubiaga, The University of Warwick 
-
 
 Proceedings:
 ============
