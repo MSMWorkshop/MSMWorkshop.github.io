@@ -23,6 +23,26 @@ Martin Atzmueller, Tilburg University, Netherlands; m.atzmueller@uvt.nl
 Alvin Chin, BMW Technology Corporation, USA; alvin.chin@bmwna.com
 Christoph Trattner, University of Bergen, Norway; trattner.christoph@gmail.com
 
+Program Committee:
+==================
+Alejandro Bellogin, Universidad Autonoma de Madrid, Spain
+Javier Luis Canovas Izquierdo, IN3 - UOC, Spain
+Michelangelo Ceci, Universita degli Studi di Bari, Italy
+Michael Granitzer, University of Passau, Germany
+Bin Guo, Institut Telecom Sud Paris, France
+Eelco Herder, Radboud University, Netherlands
+Geert-Jan Houben, Delft University of Technology, Netherlands
+Ralf Klamma, RWTH Aachen University, Germany
+Bart Knijnenburg, Clemson University, USA
+Dominik Kowald, Know-Center, Austria
+Florian Lemmerich, RWTH Aachen, Germany
+Nico Piatkowski, AI Group, TU Dortmund, Germany
+Haggai Roitman, IBM Research Haifa, Israel
+Giancarlo Ruffo, Universita di Torino, Italy
+Marc Smith, Connected Action Consulting Group, USA
+Longqi Yang, Cornell University, USA
+Arkaitz Zubiaga, The University of Warwick, UK
+
 We aim to attract researchers from all over the world working on data mining, modeling and using machine learning and AI for social media, big and small data, sensor data and the web. Social networks such as Facebook, Twitter, and LinkedIn have paved the way for generating huge amount of diverse, streaming bit data in a short period of time. Such social media data require the application of big data analytics to produce meaningful information to both information consumers and data generators. Machine learning and AI techniques are particularly effective in situations where deep and predictive insights need to be uncovered from such social media data sets that are large, diverse and fast changing. Following the discussion at our workshop at TheWebConf 2018, we aim to focus on how to apply data mining, recommendation, machine learning and AI models, algorithms and systems for analytic and predictive modeling on social media, big data, small data, web and sensor data. Contrary to last year’s workshop, we would like to particularly invite researchers that are interested in going beyond standard analytics approaches and try to discover the intelligent information hidden in the large and fast-changing social media data. 
 
 Overall, we are interested in receiving papers related to the following topics which include but are not limited to: 
