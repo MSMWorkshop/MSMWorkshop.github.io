@@ -85,7 +85,7 @@ All submitted papers must
     * be written in English;
     * contain author names, affiliations, and email addresses;
     * be formatted according to the ACM SIG Proceedings template
-	(http://www.acm.org/sigs/publications/proceedings-templates)
+	(https://www.acm.org/publications/proceedings-template)
 	with a font size no smaller than 9pt;
     * be in PDF (make sure that the PDF can be viewed on any
 	platform), and formatted for US Letter size;
