@@ -12,7 +12,7 @@ Mining, Modeling and Learning from Social Media
 
 Important Dates:
 ================
-** Submission Deadline: Jan 10, 2019 
+** Submission Deadline: Jan 24, 2019 
 ** Notification of Acceptance: Feb 14, 2019
 ** Camera-Ready Versions Due: Mar 3, 2019
 ** Workshop date: May 13-14, 2019 
