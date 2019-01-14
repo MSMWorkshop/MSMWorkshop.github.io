@@ -19,7 +19,7 @@ Important Dates:
 
 Workshop Organizers:
 ====================
-Martin Atzmueller, Tilburg University, Netherlands; m.atzmueller@uvt.nl
+Martin Atzmueller, Tilburg University, Netherlands; m.atzmuller@uvt.nl
 Alvin Chin, BMW Technology Corporation, USA; alvin.chin@bmwna.com
 Christoph Trattner, University of Bergen, Norway; trattner.christoph@gmail.com
 
@@ -102,7 +102,7 @@ https://easychair.org/conferences/?conf=msm2019
 
 Contact:
 ========
-Martin Atzmueller, Tilburg University, Netherlands; m.atzmueller@uvt.nl
+Martin Atzmueller, Tilburg University, Netherlands; m.atzmuller@uvt.nl
 Alvin Chin, BMW Technology Corporation, USA; alvin.chin@bmwna.com
 Christoph Trattner, University of Bergen, Norway; trattner.christoph@gmail.com
 
