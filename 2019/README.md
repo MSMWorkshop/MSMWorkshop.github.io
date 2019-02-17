@@ -1,1 +1,1 @@
-# DIgHum.github.io
+# MSMWorkshop.github.io
